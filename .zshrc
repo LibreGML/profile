@@ -98,7 +98,7 @@ alias fileclean='sudo trash-empty && sudo rm -rf ~/.local/share/recently-used.xb
 ## 其他简化命令
 alias h='history'
 alias als='alias'
-alias vport='export HTTP_PROXY="http://127.0.0.1:7897" && export HTTPS_PROXY="https://127.0.0.1:7897"'
+alias vport='export HTTP_PROXY="http://127.0.0.1:7897" && export HTTPS_PROXY="http://127.0.0.1:7897"'
 alias _='sudo '
 alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
