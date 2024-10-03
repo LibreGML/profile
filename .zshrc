@@ -96,6 +96,8 @@ alias pkgclean='sudo pacman -Scc  --noconfirm && yay -Scc --noconfirm && sudo pa
 alias lnclean='sudo find / -type l ! -exec test -e {} \; -delete'
 alias fileclean='sudo trash-empty && sudo rm -rf ~/.local/share/recently-used.xbel'
 ## 其他简化命令
+alias python='py'
+alias exp='export'
 alias h='history'
 alias als='alias'
 alias vport='export HTTP_PROXY="http://127.0.0.1:7897" && export HTTPS_PROXY="http://127.0.0.1:7897"'
