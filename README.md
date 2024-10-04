@@ -8,6 +8,8 @@
 - resolution:1920x1080 @ 60Hz
 ---
 
+[Arch云笔记](https://javagml.pages.dev/arch/)
+
 #### Terminal 
 ![image](https://github.com/user-attachments/assets/9c2b81b7-c665-40b5-99b8-6674e04dc741)
 ![image](https://github.com/user-attachments/assets/26715c80-bb88-4a03-ac0b-fe21999e93a3)
